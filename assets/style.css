@@ -1,0 +1,78 @@
+* {
+    /* outline: 2px solid red; */
+}
+
+ul {
+    padding-left: 0px;
+}
+
+li {
+    display: inline;
+}
+
+ul li a {
+    text-decoration: none;
+    color: #000;
+}
+
+.nav-link {
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+.nav-link:hover {
+    border-bottom: 2px solid black;
+}
+
+
+.notice-container{
+    background: #950c17!important;
+    color: white;
+    text-align: center;
+    height: 25px;
+}
+
+.main-image-container{
+    background-image: url(https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Highlight-Xbox-Series-S-Stereo-Headset-FY23HOL:VP5-1920x600);
+    background-size: cover;
+    height: 500px;
+
+}
+
+.main-container-card {
+    text-align: left;
+    width: 300px;
+    padding-top: 250px;
+    padding-left: 50px;
+}
+
+.icons {
+    margin: 25px 0 25px 0;
+    text-align:  center;
+}
+
+.icons div {
+    display: inline-block;
+    margin-right: 10px;
+}
+
+.icons div a {
+    text-decoration: none;
+    color: #000;
+}
+
+.products {
+    text-align: center;
+}
+
+.products div {
+    display: inline-block;
+    width: 300px;
+    text-align: left;
+    margin-right: 25px;
+}
+
+
+.products div img {
+    width: 300px;
+}
